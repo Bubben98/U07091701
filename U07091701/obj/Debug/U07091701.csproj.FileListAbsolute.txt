@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2017\Projects\U07091701\U07091701\bin\Debug\U07091701.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\U07091701\U07091701\bin\Debug\U07091701.exe
+c:\users\admin\documents\visual studio 2017\Projects\U07091701\U07091701\bin\Debug\U07091701.pdb
+c:\users\admin\documents\visual studio 2017\Projects\U07091701\U07091701\obj\Debug\U07091701.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\U07091701\U07091701\obj\Debug\U07091701.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\visual studio 2017\Projects\U07091701\U07091701\obj\Debug\U07091701.exe
+c:\users\admin\documents\visual studio 2017\Projects\U07091701\U07091701\obj\Debug\U07091701.pdb
